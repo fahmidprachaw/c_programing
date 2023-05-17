@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1681367388 source:/Users/macbookair/Desktop/programing/programing/Hello/main.c
+	<stdio.h>
+	<stdlib.h>
+
